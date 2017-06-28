@@ -2,10 +2,10 @@ botMordomo Alfred
 ===============================================
 
 --------------------
-- Há duas maneiras de testar esse bot de conversção:
+- Há duas maneiras de testar esse Chatterbot:
 	
-	**1ª** Seguir este passo-a-passo.<br /> 
-	**2ª** No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
+	- Seguir este passo-a-passo.<br /> 
+	- No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
 
 --------------------
 
