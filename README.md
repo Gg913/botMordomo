@@ -41,7 +41,7 @@ botMordomo Alfred
 
 - Para criar esse Chatterbot, foi utilizado a linguagem de programação **JavaScript**, a plataforma **Node.js** e a API **node-telegram-bot-api**.
 
-1. É preciso ter instalado na máquina o **Node.js**. Caso não tenha, instale por esse **[tutorial](https://github.com/CristianAmbrosi/tutoriais/blob/master/Instalar%20Node.js%20no%20Ubuntu.md)**.
+1. É preciso ter instalado em seu computador o **Node.js**. Caso não tenha, instale por esse **[tutorial](https://github.com/CristianAmbrosi/tutoriais/blob/master/Instalar%20Node.js%20no%20Ubuntu.md)**.
 
 2. Você pode clonar esse repositório em sua máquina utilizando uma ferramente de versionamento (Git por exemplo) ou simplemente fazer o download.
 
