@@ -2,10 +2,12 @@ botMordomo Alfred
 ===============================================
 
 --------------------
-- Há duas maneiras de testar esse Chatterbot:
+- Há duas maneiras de você testar esse Chatterbot:
 	
-	- Seguir este passo-a-passo.<br /> 
-	- No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
+	- Seguir este passo-a-passo.
+	- No aplicativo Telegram, busque pelo bot com o *username* **@AlfredMordomoBot**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
+
+- Para desenvolver um Chatterbot similar, pode seguir os mesmos passos.
 
 --------------------
 
@@ -27,7 +29,7 @@ botMordomo Alfred
 
 5. Criado o bot com sucesso, o BotFather vai gerar um **token** para o seu bot. Esse **token é único** e serve como uma "senha" para seu bot, portanto deve ser mantido em sigilo. Exemplo de token **(esse token já foi revogado)**: 
 
-	> asidosajdoisad
+	> 110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw
 
 **- Obs:** Para obter uma lista de comandos para configurar o seu bot, como por exemplo, inserir uma descrição ou uma foto, digite o comando a baixo:
 	
@@ -64,7 +66,5 @@ https://core.telegram.org/bots
 https://core.telegram.org/api
 
 https://blog.mbeck.com.br/como-criar-um-chatbot-para-telegram-81a556cc0e52
-
-https://juliarizza.wordpress.com/2016/08/06/fazendo-um-bot-para-telegram-em-python/
 
 http://www.clancobra.com.br/2015/11/como-fazer-bots-no-telegram/
