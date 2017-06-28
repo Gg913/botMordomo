@@ -1,0 +1,22 @@
+{
+  "name": "botmordomo",
+  "version": "1.0.0",
+  "description": "Simples aplicação para um chatterbot do telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianAmbrosi/botMordomo.git"
+  },
+  "author": "Cristian Ambrosi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianAmbrosi/botMordomo/issues"
+  },
+  "homepage": "https://github.com/CristianAmbrosi/botMordomo#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
