@@ -43,7 +43,7 @@ botMordomo Alfred
 
 1. É preciso ter instalado em seu computador o **Node.js**. Caso não tenha, instale por esse **[tutorial](https://github.com/CristianAmbrosi/tutoriais/blob/master/Instalar%20Node.js%20no%20Ubuntu.md)**.
 
-2. Você pode clonar esse repositório em sua máquina utilizando uma ferramente de versionamento (Git por exemplo) ou simplemente fazer o download.
+2. Você pode clonar esse repositório em sua máquina utilizando uma ferramenta de versionamento (Git por exemplo) ou simplemente fazer o download.
 
 3. Acesse o diretório do botMordomo pelo seu terminal e rode o seguinte comando para instalar as dependências:
 
