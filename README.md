@@ -3,14 +3,14 @@ botMordomo Alfred
 
 --------------------
 
-** 1ª ** Seguir este passo-a-passo. 
-** 2ª ** No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
+**1ª** Seguir este passo-a-passo.<br /> 
+**2ª** No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
 
 --------------------
 
 ## Criando o Chatterbot (ou chatbot) no Telegram
 
-1. Seguindo com base de que você já tenha uma conta no Telegram, vá no campo *pesquisar* e procure pelo BotFather (sim uma homenagem ao The Godfather):
+1. Seguindo com base de que você já tenha uma conta no Telegram, vá no campo *pesquisar* e procure pelo **BotFather** (sim uma homenagem ao filme The Godfather):
 	
 	> @BotFather
 
@@ -44,15 +44,15 @@ botMordomo Alfred
 
 3. Acesse o diretório do botMordomo pelo seu terminal e rode o seguinte comando para instalar as dependências:
 
-		> npm install
+	> npm install
 
 4. Abra o arquivo **index.js** e insira o token gerado do seu bot criado anteriormente na variável **token**. Exemplo: <br />
 	
-	![]()
+	![](https://github.com/CristianAmbrosi/botMordomo/blob/master/images/token-bot.png)
 
 5. Agora para testar o botMordomo Alfred, rode o comando a baixo e inicie uma conversa com seu bot no Telegram.
 
-		> node index.js
+	> node index.js
 
 --------------------
 
