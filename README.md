@@ -2,9 +2,10 @@ botMordomo Alfred
 ===============================================
 
 --------------------
-
-**1ª** Seguir este passo-a-passo.<br /> 
-**2ª** No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
+- Há duas maneiras de testar esse bot de conversção:
+	
+	**1ª** Seguir este passo-a-passo.<br /> 
+	**2ª** No aplicativo Telegram, busque pelo bot com o *username* **@SEILA**. Porém, ele não vai funcionar desta forma (ao menos por enquanto), pois é necessário ter a implementação do bot hospedado em um servidor, o que ainda não foi feito.
 
 --------------------
 
