@@ -13,7 +13,7 @@ botMordomo Alfred
 
 ## Criando o Chatterbot (ou chatbot) no Telegram
 
-1. Seguindo com base de que você já tenha uma conta no Telegram, vá no campo *pesquisar* e procure pelo **BotFather** (sim uma homenagem ao filme The Godfather):
+1. Seguindo com base de que você já tenha uma conta no Telegram, vá no campo *pesquisar* e procure pelo **BotFather** (sim uma referência ao filme The Godfather):
 	
 	> @BotFather
 
