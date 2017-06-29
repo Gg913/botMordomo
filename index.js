@@ -1,7 +1,7 @@
 'use strict';
 
 var TelegramBot = require('node-telegram-bot-api');
-var token = '338688768:AAFZxfg62o7SCgk2u8fjI36RzIZddO74Ouw';
+var token = 'SEU_TOKEN';
 var bot = new TelegramBot(token, { polling: true });
 var chatId = 0;
 
